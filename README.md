@@ -3,7 +3,7 @@
  -- This is a short summary and explanation file for this project -- 
 
 ## Introduction
-In this project we want to know more about energetic particles in Jupiter's vast magnetosphere. Specifically, we want to learn about their energy distribution with respect to the magnetic equator. We also want to learn about the inclination angle they have with the local magnetic field, called the pitch angle (PA). In order to achieve this, we use data from the JEDI instrument of the Juno spacecraft (https://link.springer.com/article/10.1007/s11214-013-0025-3). This instrument detects high energetic ions in its orbit around Jupiter. Every 53 days it performs one full orbit. The data for this project were obtained from the JMIDL software of the JHUAPL and can be downloaded from this repository.
+In this project we want to know more about energetic particles in Jupiter's vast magnetosphere. Specifically, we want to learn about their energy distribution with respect to the magnetic equator. We also want to learn about the angle they form with the local magnetic field, called the pitch angle (PA). In order to achieve this, we use data from the JEDI instrument of the Juno spacecraft (https://link.springer.com/article/10.1007/s11214-013-0025-3). This instrument detects high energetic ions in its orbit around Jupiter. Every 53 days it performs one full orbit. The data for this project were obtained from the JMIDL software of the JHUAPL and can be downloaded from this repository.
 Ultimately, our goal is to speculate about a heating mechainsm that accelerates ions in Jupiter's middle magnetosphere by looking at the obtained distribution functions.
 
 ###Task
