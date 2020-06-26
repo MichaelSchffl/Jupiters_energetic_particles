@@ -19,7 +19,7 @@ def Orbitload(Orbit):
 
 def load_yTag_data(file, yTag, yTag_to_intens):
     # load data:
-    data = open('/afs/rrz.uni-koeln.de/geo/user/mschoef2/data/%s.d2s'%file, 'r')
+    data = open('C:/Users/michi/Documents/GitHub/Jupiters_energetic_particles/%s.d2s'%file, 'r')
     
     for line in range(yTag):
         line = data.readline()
@@ -54,7 +54,7 @@ def load_yTag_data(file, yTag, yTag_to_intens):
 
 
 def load_data(file, header):
-    data = open('/afs/rrz.uni-koeln.de/geo/user/mschoef2/data/%s.d2s'%file, 'r')
+    data = open('C:/Users/michi/Documents/GitHub/Jupiters_energetic_particles/%s.d2s'%file, 'r')
 
     # drop header
     for line in range(header):
@@ -73,7 +73,7 @@ def load_data(file, header):
 
 
 def load_Bfield(file, arr_data, header):
-    data = open('/afs/rrz.uni-koeln.de/geo/user/mschoef2/data/%smag'%file, 'r')
+    data = open('C:/Users/michi/Documents/GitHub/Jupiters_energetic_particles/%smag'%file, 'r')
 
     # drop header
     for line in range(header):
