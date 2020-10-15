@@ -17,7 +17,3 @@ The main script is commented so that it should be clear what is the purpose of e
 - download the 'Orbitxx'-folder you are interested in
 - run the code in your Jupyter Notebook. A cell can be run with ctrl-enter or shift-enter (jump to next cell)
 - insert the path in the interactive boxes and follow the instructions
-- 
--
--
--
