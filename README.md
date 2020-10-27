@@ -32,3 +32,5 @@ Following the code, the imported density values can be plotted for each species,
 <img src="https://github.com/MichaelSchffl/jupiters_energetic_particles/blob/master/images/Orbit09_particle_densities.png"> <br/>
 For the changepoint search to see where the spacecraft crosses the current sheet, the residual minimization method yields the following resul.t<br/>
 <img src="https://github.com/MichaelSchffl/jupiters_energetic_particles/blob/master/images/Orbit09_residual_minimization.png"> <br/>
+All distributions, including energy distribution, counts and Pitch Angle distributions for the four species can be seen in the following image.<br/>
+<img src="https://github.com/MichaelSchffl/jupiters_energetic_particles/blob/master/images/Orbit09_distribution_functions.png"> <br/>
