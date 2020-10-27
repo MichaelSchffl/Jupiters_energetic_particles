@@ -17,7 +17,7 @@ The main script is commented so that it should be clear what is the purpose of e
 - Download the repository and navigate to the folder you store it in the Jupyter environment. Run the main.ipynb script in Jupyter notebook.
 - A cell can be run with ctrl-enter or shift-enter to jump to next cell
 - When asked for the Orbit time and ion species, enter the orbit number as dd-dd_mm_, so e.g. for Orbit09 that is 17-20_10_ and the ion species as either LoTOFxE, HiTOFxE or HiResIon depending on which ion dataset is used in the orbit dataset you have chosen. 
-- The functions.py file contains all functions written to support the code. These functions are imported at the beginning of the script. Additionally, numpy, scipy, matplotlib and datetime, ipywidgets and _ _future_ _ are libraries that are needed to run the code 
+- The functions.py file contains all functions written to support the code. These functions are imported at the beginning of the script. Additionally, numpy, scipy, matplotlib and datetime, ipywidgets and future are libraries that are needed to run the code 
 
 ### Tasks
  - The data sets provide particle intensities as a function of their energy (keV) and as a function of the pitch angle, along with the time the measurements were taken. As a first step, the orbit and ion data sets must be chosen and imported as well as the magnetic field data. The magnetic field data give information about the current spacecraft location w.r.t the magnetic equator.
@@ -27,6 +27,6 @@ The main script is commented so that it should be clear what is the purpose of e
  ### Results
  The results shown here are far from being exhaustive of what can be shown with data analysis done here, but give a good overview of what the data mean and how a data interpretation can look like.<br/>
  The following image shows the dipole latitude of Jupiter in blue and the magnetic field pattern in the same plot in green. Notice that the magnetic field values are uncalibrated.<br/>
- <img src="https://github.com/MichaelSchffl/jupiters_energetic_particles/blob/master/images/Orbit09_magnetic_field.png"> <br/>
-
-
+<img src="https://github.com/MichaelSchffl/jupiters_energetic_particles/blob/master/images/Orbit09_magnetic_field.png"> <br/>
+<img src="https://github.com/MichaelSchffl/jupiters_energetic_particles/blob/master/images/Orbit09_particle_densities.png"> <br/>
+<img src="https://github.com/MichaelSchffl/jupiters_energetic_particles/blob/master/images/Orbit09_residual_minimization.png"> <br/>
