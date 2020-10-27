@@ -28,5 +28,7 @@ The main script is commented so that it should be clear what is the purpose of e
  The results shown here are far from being exhaustive of what can be shown with data analysis done here, but give a good overview of what the data mean and how a data interpretation can look like.<br/>
  The following image shows the dipole latitude of Jupiter in blue and the magnetic field pattern in the same plot in green. Notice that the magnetic field values are uncalibrated.<br/>
 <img src="https://github.com/MichaelSchffl/jupiters_energetic_particles/blob/master/images/Orbit09_magnetic_field.png"> <br/>
+Following the code, the imported density values can be plotted for each species, along with the magnetic field measured by the spacecraft.<br/>
 <img src="https://github.com/MichaelSchffl/jupiters_energetic_particles/blob/master/images/Orbit09_particle_densities.png"> <br/>
+For the changepoint search to see where the spacecraft crosses the current sheet, the residual minimization method yields the following resul.t<br/>
 <img src="https://github.com/MichaelSchffl/jupiters_energetic_particles/blob/master/images/Orbit09_residual_minimization.png"> <br/>
