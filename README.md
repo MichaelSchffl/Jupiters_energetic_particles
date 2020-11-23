@@ -1,5 +1,6 @@
 # Jupiters energetic particles 
-####---in progress---
+
+---in progress---
 
  -- This is a short summary and explanation file for this project -- 
 
